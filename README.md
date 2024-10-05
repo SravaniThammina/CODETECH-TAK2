@@ -14,6 +14,7 @@ OBJECTIVE
 The objective of a BMI Tracker App is to provide users with an easy-to-use platform to monitor their health by calculating and tracking their Body Mass Index (BMI) over time. The app helps users understand their BMI and its relationship to their overall health, encouraging healthier habits and regular monitoring.
 
 Key Objectives:
+
 Calculate BMI:
 The primary goal is to help users calculate their BMI based on their height and weight using the standard formula:
 BMI
